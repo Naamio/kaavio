@@ -1,3 +1,3 @@
 # Kaavio
 
-A description of this package.
+An OpenGraph-compliant library. 
